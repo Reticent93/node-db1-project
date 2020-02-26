@@ -2,7 +2,10 @@
 
 -- Find all customers with postal code 1010
 
+
+
 -- Find the phone number for the supplier with the id 11
+
 
 -- List first 10 orders placed, sorted descending by the order date
 
