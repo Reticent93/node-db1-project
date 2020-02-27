@@ -14,8 +14,8 @@ WHERE "ID" = 11
 -- List first 10 orders placed, sorted descending by the order date
 SELECT *
 FROM "Order"
-ORDER BY "OrderDate" DESC
-LIMIT 10;
+ORDER BY "OrderDate" DESC;
+LIMIT 10
 
 
 -- Find all customers that live in London, Madrid, or Brazil
